@@ -1,0 +1,19 @@
+{
+  "name": "copilot-exersice",
+  "version": "1.0.0",
+  "description": "Simple orders API for fetching orders by customerId",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "api",
+    "express",
+    "orders"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
